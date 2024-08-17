@@ -1,3 +1,7 @@
 langchain-community 
 pypdf 
 python-docx
+langchain-groq 
+sentence-transformers 
+faiss-cpu 
+pandasai 
