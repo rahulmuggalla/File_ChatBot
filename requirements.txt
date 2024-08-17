@@ -2,3 +2,4 @@ langchain-community
 pypdf 
 python-docx
 langchain-groq
+pandasai 
